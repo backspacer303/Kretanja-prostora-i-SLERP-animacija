@@ -1,5 +1,5 @@
 # Kretanja prostora i SLERP (Spherical Linear Interpolation)
-Implementacija funkcija koje transformišu različite tipove reprezentacija kretanja prostora 
+Implementacija funkcija koje transformišu različite reprezentacije kretanja prostora 
 jedne u druge i simulacija glatkog kretanja objekta u prostoru.
 
 Biblioteke koje su korišćene:
